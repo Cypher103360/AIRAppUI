@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AirAppUI</string>
+    <string name="sushmita_kumar">Sushmita Kumar</string>
+    <string name="s">S</string>
+    <string name="details">Details</string>
+    <string name="last_7_days">Last 7 Days</string>
+    <string name="_22">22</string>
+    <string name="_37_lower_than_the_average">-37% lower than the average</string>
+    <string name="practice_sessions">Practice Sessions</string>
+    <string name="todo">TODO</string>
+    <string name="ideal_time_5s"><![CDATA[ideal time < 5s]]></string>
+    <string name="ideal_time_35s"><![CDATA[ideal time > 35s]]></string>
+    <string name="_43s">43s</string>
+</resources>
